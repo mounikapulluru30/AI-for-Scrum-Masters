@@ -30,7 +30,7 @@ For each scenario, I will:
 | Experiment | Scrum Area | Status |
 |---|---|---|
 | Agile Coaching – PO Changes Priorities During Sprint | Agile Coaching | ✅ Completed |
-| Backlog Refinement | Product Backlog | ⚪ Planned |
+| Backlog Refinement | Product Backlog |✅ Completed|
 | Sprint Planning | Sprint Planning | ⚪ Planned |
 | Retrospective Analysis | Retrospectives | ⚪ Planned |
 
