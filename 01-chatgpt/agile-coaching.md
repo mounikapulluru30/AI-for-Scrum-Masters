@@ -128,3 +128,9 @@ That demonstrates a much stronger Scrum mindset than simply saying **"the PO sho
 - It identified behaviors the Scrum Master should avoid, such as becoming the person who approves every priority change.
 - It emphasized transparency, collaboration, and understanding the impact of changes.
 
+## 6. What AI Missed / Areas to Validate
+- AI provides general guidance, but it does not know the team's actual organizational context.
+- The Scrum Master still needs to understand whether the change is truly urgent and what impact it has on the Sprint Goal.
+- AI cannot independently assess stakeholder relationships, team dynamics, or organizational pressure.
+- Scrum Guide principles should be used to validate the recommendations.
+- AI should support the Scrum Master's thinking, not replace professional judgment.
