@@ -33,6 +33,8 @@ For each scenario, I will:
 | Backlog Refinement | Product Backlog |✅ Completed|
 | Sprint Planning | Sprint Planning |✅ Completed |
 | Retrospective Analysis | Retrospectives | ✅ Completed |
+| ChatGPT + Scrum Master Coaching | Scrum Master Coaching | ⚪ Planned |
+
 
 ## ⚖️ Important Principle
 
