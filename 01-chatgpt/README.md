@@ -31,7 +31,7 @@ For each scenario, I will:
 |---|---|---|
 | Agile Coaching – PO Changes Priorities During Sprint | Agile Coaching | ✅ Completed |
 | Backlog Refinement | Product Backlog |✅ Completed|
-| Sprint Planning | Sprint Planning | ⚪ Planned |
+| Sprint Planning | Sprint Planning |✅ Completed |
 | Retrospective Analysis | Retrospectives | ⚪ Planned |
 
 ## ⚖️ Important Principle
