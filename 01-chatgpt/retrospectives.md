@@ -267,34 +267,25 @@ And because the prompt specifically says **not to decide the final improvement a
 - It provided a useful structure for turning improvement ideas into measurable experiments.
 - It reinforced psychological safety and a learning-focused retrospective mindset.
 
-## ⚠️ 6. What AI Missed / Areas to Validate
+## ⚠️ 6. What Needs Human Validation
 
-- AI suggested many possible causes, but the Scrum Team must validate which ones actually apply.
-- Not every recurring issue necessarily requires a process change; the team should identify the most valuable improvement opportunity.
-- Suggested improvement actions should be evaluated against the team's actual context, constraints, and ability to influence the issue.
-- The Scrum Master should avoid introducing too many improvement actions at once.
-- AI cannot determine whether a retrospective action will work without real-world experimentation and follow-up.
-- Improvement actions should be inspected in future Sprints to determine whether they produced the intended result.
+- AI identified several possible patterns and causes, but the Scrum Master needs to validate which ones actually exist in the team's context.
+- The Scrum Master should use observation and discussion to distinguish between recurring systemic issues and events specific to this Sprint.
+- Suggested coaching questions should be adapted to the team's dynamics rather than followed as a fixed script.
+- The team needs to decide which improvement opportunity is most valuable and within its influence.
+- Suggested improvement experiments should be evaluated against the team's actual constraints, ownership, and ability to measure results.
+- The Scrum Master needs to assess the level of psychological safety and participation through real interaction rather than relying on assumptions.
+- Whether a dependency, production defect, communication issue, or planning problem is a root cause requires investigation with the people involved.
 
-## 🧠 7. Scrum Master Analysis
+## 🔴 7. Actual AI Weaknesses / Mistakes
 
-The AI response is useful for preparing a retrospective, especially for identifying patterns, generating discussion questions, and suggesting possible improvement experiments.
+No significant factual or Scrum-related errors were identified in the AI response.
 
-However, I would use the AI output only as a **facilitation aid**.
+The response appropriately avoided blaming individuals, treated possible causes as hypotheses rather than conclusions, and emphasized that improvement actions should be selected by the team.
 
-My focus as a Scrum Master would be to:
+It also correctly positioned the Scrum Master's role as facilitating inspection, learning, and ownership rather than imposing solutions.
 
-- Create a safe environment for honest discussion.
-- Help the team move from observations to deeper understanding.
-- Avoid blame and assumptions.
-- Identify recurring systemic issues.
-- Help the team select one or two meaningful improvement opportunities.
-- Ensure improvement actions are specific enough to inspect later.
-- Follow up in future Sprints to see whether the changes actually helped.
-
-The team should own the insights and improvement actions. The Scrum Master should facilitate the process rather than prescribe the solutions.
-
-The most important point is that a retrospective should result in **real learning and improvement**, not simply a list of complaints or action items.
+The main limitation is contextual: AI can suggest useful questions and possible patterns, but it cannot determine the team's actual dynamics, psychological safety, organizational constraints, or root causes without human observation and conversation.
 
 ## 💡 8. Key Learning
 
